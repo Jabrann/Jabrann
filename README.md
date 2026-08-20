@@ -21,16 +21,3 @@
 ---
 
 </div>
-
-### 🛠️ Core Capabilities
-
-```pawn
-#include <openmp>
-#include <a_mysql>
-
-public OnGameModeInit()
-{
-    // Building low-latency architectures & high-performance systems
-    printf("[INIT] System core optimized by Jabrann.");
-    return 1;
-}
