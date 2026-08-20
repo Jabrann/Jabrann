@@ -7,7 +7,7 @@
 
 # ⚡ Hi, I'm Jabrann
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D7B5F2&center=true&vcenter=true&width=550&lines=Game+Server+%26+Software+Developer;Pawn%2C+C%2B%2B%2C+Sql+%26+DLL;UI%2FUX+Design+%26+Branding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D7B5F2&center=true&vcenter=true&width=700&lines=Developer+focused+on+Game+Servers%2C+Web+Development+%26+Systems.;Pawn%2C+PHP%2C+JavaScript%2C+SQL+%26+Node.js;Backend%2C+Server+Architecture+%26+System+Optimization" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://discord.com/users/jabrannz">
