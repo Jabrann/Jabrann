@@ -22,23 +22,6 @@
 
 </div>
 
-### 🛠️ About & Stack
-
-* 💻 **Dev:** open.mp / SA-MP Architecture, Systems & Logic, Ren'Py
-* ⚙️ **Tech:** Pawn, C/C++, Python, MySQL, Custom Anti-Cheat Engine
-* 🎨 **Design:** Minimalist & 3D Branding (Dark/Purple Palette)
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jabrannz&show_icons=true&theme=synthwave&hide_border=true&title_color=d7b5f2&icon_color=d7b5f2" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabrannz&layout=compact&theme=synthwave&hide_border=true&title_color=d7b5f2" width="48%" />
-
-</div>
-
 ---
 
 <div align="center">
